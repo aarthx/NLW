@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da rocketseat.
 
-[Clique aqui para acessar] (https://aarthx.github.io/nlw-esports-explorer/)
+[🔗Clique aqui para acessar](https://aarthx.github.io/nlw-esports-explorer/)
 
 ##  🛠Tecnologias
 
